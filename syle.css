@@ -12,9 +12,6 @@ a{
 ul, ol, li{
     list-style: none;
 }
-main{
-    display: flex;
-}
 .roxo{
     background-color: purple;
     display: flex;
@@ -24,9 +21,25 @@ main{
     width: 100vw;
     height: 200px;
 }
-.circulos{
+.roxo div{
     background-color: rgb(190, 147, 233);
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.azul{
+    background-color: blue;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 10px;
+    width: 100vw;
+    height: 200px;
+
+}
+.azul div{
+    background-color: aqua;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
 }

@@ -58,3 +58,18 @@ ul, ol, li{
     height: 120px;
     border-radius: 50%;
 }
+.vermelho{
+    background-color: rgb(252, 135, 135);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    width: 100vw;
+    height: 200px;
+}
+.vermelho div{
+    background-color: red;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}

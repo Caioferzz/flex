@@ -19,7 +19,7 @@ ul, ol, li{
     align-items: flex-end;
     gap: 10px;
     width: 100vw;
-    height: 240px;
+    height: 270px;
 }
 .roxo div{
     background-color: rgb(190, 147, 233);
@@ -34,7 +34,7 @@ ul, ol, li{
     align-items: center;
     gap: 10px;
     width: 100vw;
-    height: 240px;
+    height: 270px;
 
 }
 .azul div{
@@ -50,7 +50,7 @@ ul, ol, li{
     align-items: center;
     gap: 10px;
     width: 100vw;
-    height: 240px;
+    height: 270px;
 }
 .amarelo div{
     background-color: yellow;
@@ -65,7 +65,7 @@ ul, ol, li{
     align-items: center;
     gap: 10px;
     width: 100vw;
-    height: 240px;
+    height: 280px;
 }
 .vermelho div{
     background-color: red;
@@ -80,7 +80,7 @@ ul, ol, li{
     align-items: center;
     gap: 10px;
     width: 100vw;
-    height: 240px;
+    height: 270px;
 }
 .verde div{
     background-color: green;

@@ -12,6 +12,10 @@ a{
 ul, ol, li{
     list-style: none;
 }
+main{
+    width: 100vw;
+    height: 100vh;
+}
 .roxo{
     background-color: purple;
     display: flex;
@@ -19,7 +23,7 @@ ul, ol, li{
     align-items: flex-end;
     gap: 10px;
     width: 100vw;
-    height: 220px;
+    height: 20vh;
 }
 .roxo div{
     background-color: rgb(190, 147, 233);
@@ -34,7 +38,7 @@ ul, ol, li{
     align-items: center;
     gap: 10px;
     width: 100vw;
-    height: 220px;
+    height: 20vh;
 
 }
 .azul div{
@@ -50,7 +54,7 @@ ul, ol, li{
     align-items: center;
     gap: 10px;
     width: 100vw;
-    height: 220px;
+    height: 20vh;
 }
 .amarelo div{
     background-color: yellow;
@@ -65,7 +69,7 @@ ul, ol, li{
     align-items: center;
     gap: 10px;
     width: 100vw;
-    height: 220px;
+    height: 20vh;
 }
 .vermelho div{
     background-color: red;
@@ -80,7 +84,7 @@ ul, ol, li{
     align-items: center;
     gap: 10px;
     width: 100vw;
-    height: 220px;
+    height: 20vh;
 }
 .verde div{
     background-color: green;
